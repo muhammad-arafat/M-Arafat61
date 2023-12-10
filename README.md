@@ -17,11 +17,12 @@
 
 ###
 <p align="left">
-<a href="https://twitter.com/m_arafat61" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
-<a href="https://linkedin.com/in/m-arafat61" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+<a href="https://twitter.com/m_arafat61" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" /></a>
+<a href="https://linkedin.com/in/m-arafat61" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /></a>
+<a href="https://linkedin.com/in/m-arafat61" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" /></a>
 </p>
 
-<h3 align="left">My skill set includes:</h3>
+<h3 align="left">🛠 My skill set includes:</h3>
 
 ###
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="icons/express/express-original.svg" alt="express" width="40" height="40" /></a>
@@ -35,13 +36,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a>
 
-
-
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-arafat61&show_icons=true&locale=en" alt="m-arafat61" />
-</p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-arafat61&show_icons=true&locale=en&layout=compact" alt="m-arafat61" />
-</p>
+###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-arafat61&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-arafat61&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
