@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://i.ibb.co/FgNLqbt/github-cover.png"  />
+<div align="center" width="100%">
+  <img width="100%" src="https://i.ibb.co/yStsK5r/github-cover.png"  />
 </div>
 
 <h1 align="center">Hi 👋, myself Muhammad Arafat Hossain</h1>
