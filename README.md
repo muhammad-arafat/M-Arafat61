@@ -39,6 +39,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" height="30" alt="git logo"  />
   <img width="12" />
 
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
