@@ -21,7 +21,7 @@
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-arafat61&show_icons=true&locale=en&layout=compact" alt="m-arafat61" />
 </p>
-
+<br/>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-arafat61&show_icons=true&locale=en" alt="m-arafat61" />
 </p>
