@@ -2,7 +2,7 @@
   <img width="100%" src="https://i.ibb.co/yStsK5r/github-cover.png"  />
 </div>
 
-<h1 align="center">Hi 👋, myself Muhammad Arafat Hossain</h1>
+<h2 align="center">Hi 👋, myself Muhammad Arafat Hossain</h2>
 <h3 align="center">Front End Web Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-arafat61&label=Profile%20views&color=0e75b6&style=flat" alt="m-arafat61" /> </p>
@@ -55,6 +55,11 @@
 
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-arafat61&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-arafat61&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-arafat61&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-arafat61&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+    </div>
+  <div align="left">
+  <img src="https://streak-stats.demolab.com?user=m-arafat61&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+</div>
