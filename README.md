@@ -1,7 +1,3 @@
-<div align="center" width="100%">
-  <img width="100%" src="https://i.ibb.co/G2fykHh/11602236-21004063.jpg"  />
-</div>
-
 <h2 align="center">Hi 👋, myself Muhammad Arafat Hossain</h2>
 <h3 align="center">Front End Web Application Developer</h3>
 
