@@ -8,8 +8,6 @@
 
 Software Engineer with proven expertise in building high-performance, production-grade applications across web and mobile platforms. Specialized in architecting scalable frontend solutions using React, Next.js, and React Native/Expo, with a track record of leading feature development, migrating legacy systems, and optimizing applications for exceptional user experience on high-traffic platforms.
 
-Currently engineering solutions at **Neutron Ltd.**, where I've successfully migrated legacy systems to modern architectures and built multiple production applications serving thousands of users.
-
 ### 🎯 Current Focus
 - Architecting scalable frontend applications with advanced state management
 - Building cross-platform mobile experiences with React Native/Expo
@@ -19,7 +17,6 @@ Currently engineering solutions at **Neutron Ltd.**, where I've successfully mig
 ## 📫 Let's Connect
 
 **Email:** muhammadarafathossain11@gmail.com  
-**Location:** Khulna, Bangladesh
 
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammadarafathossain/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo" /></a>
