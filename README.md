@@ -14,14 +14,6 @@ Software Engineer with proven expertise in building high-performance, production
 - Performance optimization and SEO-driven development
 - Leading full-stack feature implementations from concept to production
 
-## 📫 Let's Connect
-
-**Email:** muhammadarafathossain11@gmail.com  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammadarafathossain/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo" /></a>
-</p>
-
 ## 🛠️ Technical Expertise
 
 **Core Technologies:** React 18 | Next.js 14 | React Native | Expo | TypeScript | JavaScript (ES6+) | HTML | CSS
