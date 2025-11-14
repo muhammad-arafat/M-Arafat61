@@ -16,7 +16,7 @@ Software Engineer with proven expertise in building high-performance, production
 
 ### 🛠️ Technical Expertise
 
-🚀 **Frontend Development: **
+🚀 **Frontend Development:**
 ***React.js, Next.js, React Native, Expo
 TypeScript, JavaScript (ES6+)
 Responsive UI, component-driven architecture, reusable design patterns***
