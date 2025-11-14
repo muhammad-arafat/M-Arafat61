@@ -16,7 +16,7 @@ Software Engineer with proven expertise in building high-performance, production
 
 ## 🛠️ Technical Expertise
 
-**Core Technologies:** React 18 | Next.js 14 | React Native | Expo | TypeScript | JavaScript (ES6+) | HTML | CSS
+**Core Technologies:** React.js | Next.js | React Native | Expo | TypeScript | JavaScript (ES6+) | HTML | CSS
 
 **State Management:** Redux Toolkit | RTK Query | React Query | Zustand
 
