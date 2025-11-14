@@ -15,23 +15,51 @@ Software Engineer with proven expertise in building high-performance, production
 - Leading full-stack feature implementations from concept to production
 
 🛠️ Technical Expertise
-<div align="center">
+
 🚀 Frontend Development
-<div style="padding: 12px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.06); width: 95%;"> <img src="https://skillicons.dev/icons?i=react,nextjs,react,expo,ts,js,html,css" height="48" /> </div>
+React.js, Next.js, React Native, Expo
+TypeScript, JavaScript (ES6+)
+Responsive UI, component-driven architecture, reusable design patterns
+
 ⚡ State Management
-<div style="padding: 12px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.06); width: 95%;"> <img src="https://skillicons.dev/icons?i=redux" height="48" /> <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Zustand-443F37?style=for-the-badge" height="28" /> </div>
-🎨 UI / Styling
-<div style="padding: 12px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.06); width: 95%;"> <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="48" /> <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge" height="28" /> <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Radix_UI-111111?style=for-the-badge&logo=radix-ui&logoColor=white" height="28" /> </div>
-🌀 Animation & 3D
-<div style="padding: 12px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.06); width: 95%;"> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/GSAP-4EAF2A?style=for-the-badge&logo=greensock&logoColor=white" height="28" /> <img src="https://skillicons.dev/icons?i=threejs" height="48" /> <img src="https://img.shields.io/badge/Reanimated-000000?style=for-the-badge" height="28" /> </div>
-🛢️ Backend & Database
-<div style="padding: 12px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.06); width: 95%;"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" height="48" /> </div>
-🔌 API / Integrations
-<div style="padding: 12px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.06); width: 95%;"> <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=api&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Square-28A0F0?style=for-the-badge&logo=square&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28" /> </div>
-🚀 Deployment / DevOps
-<div style="padding: 12px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.06); width: 95%;"> <img src="https://img.shields.io/badge/Expo_EAS-000000?style=for-the-badge&logo=expo&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/TestFlight-007AFF?style=for-the-badge&logo=testflight&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white" height="28" /> <img src="https://skillicons.dev/icons?i=vercel,netlify" height="48" /> </div>
-🧰 Tools
-<div style="padding: 12px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.06); width: 95%;"> <img src="https://skillicons.dev/icons?i=git,postman,figma,vite" height="48" /> </div> </div>
+Building predictable, maintainable, and scalable state layers for complex applications.
+Redux Toolkit, RTK Query
+React Query for declarative data fetching and caching
+Zustand for lightweight, minimalistic global state
+
+🎨 UI / Styling Systems
+Tailwind CSS, Bootstrap 5
+Ant Design, Shadcn, Material UI, Chakra UI, Radix UI
+Expertise in building design tokens, theme systems, and custom component libraries
+
+🌀 Animation & 3D Experience
+Framer Motion, GSAP
+React Three Fiber (R3F) for 3D scenes and WebGL workflows
+Reanimated for smooth native mobile animations
+
+🛢️ Backend Development
+Node.js, Express.js
+MongoDB with Mongoose ODM
+Firebase (Auth, Firestore, Storage, Functions)
+
+🔌 API & Integrations
+REST API, GraphQL
+Real-time systems with Socket.io
+Payment integrations (Stripe, Square Payments)
+Security & auth with JWT, refresh-token strategy, rate-limiting practices
+
+🚀 DevOps & Deployment
+Expo EAS, TestFlight, App Store Connect, Google Play Console
+Automated builds, OTA updates, native module configuration
+Vercel and Netlify for scalable frontend deployments
+Experience with CI/CD, environment management, and modern deployment pipelines
+
+🧰 Tools & Workflow
+Git, branching strategies, version management
+Postman for API testing & automation
+Figma for design collaboration
+Vite for ultra-fast development environments
+Strong foundation in debugging, profiling, and cross-platform testing
 
 ## 📊 GitHub Statistics
 
