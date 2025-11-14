@@ -16,50 +16,30 @@ Software Engineer with proven expertise in building high-performance, production
 
 ### 🛠️ Technical Expertise
 
-🚀 **Frontend Development:**
-***React.js, Next.js, React Native, Expo
-TypeScript, JavaScript (ES6+)
-Responsive UI, component-driven architecture, reusable design patterns***
+**🚀 Frontend Development:**  
+*React.js, Next.js, React Native, Expo* | *TypeScript, JavaScript* | Component-driven architecture, responsive UIs
 
-⚡ **State Management**
-Building predictable, maintainable, and scalable state layers for complex applications.
-Redux Toolkit, RTK Query
-React Query for declarative data fetching and caching
-Zustand for lightweight, minimalistic global state
+**⚡ State Management:**  
+*Redux Toolkit, RTK Query, React Query, Zustand* | Scalable state layers for complex apps
 
-🎨 **UI / Styling Systems**
-Tailwind CSS, Bootstrap 5
-Ant Design, Shadcn, Material UI, Chakra UI, Radix UI
-Expertise in building design tokens, theme systems, and custom component libraries
+**🎨 UI / Styling:**  
+*Tailwind CSS, Bootstrap, Ant Design, Chakra UI, Material UI* | Custom components, theme systems
 
-🌀 **Animation & 3D Experience**
-Framer Motion, GSAP
-React Three Fiber (R3F) for 3D scenes and WebGL workflows
-Reanimated for smooth native mobile animations
+**🌀 Animation & 3D:**  
+*Framer Motion, GSAP, React Three Fiber (R3F)* | Native mobile animations with **Reanimated**
 
-🛢️ **Backend Development**
-Node.js, Express.js
-MongoDB with Mongoose ODM
-Firebase (Auth, Firestore, Storage, Functions)
+**🛢️ Backend Development:**  
+*Node.js, Express.js, MongoDB, Firebase* | API architecture, server-side logic
 
-🔌 **API & Integrations**
-REST API, GraphQL
-Real-time systems with Socket.io
-Payment integrations (Stripe, Square Payments)
-Security & auth with JWT, refresh-token strategy, rate-limiting practices
+**🔌 API & Integrations:**  
+*REST, GraphQL, Socket.io, Stripe, Square* | Secure, real-time integrations, JWT auth
 
-🚀 **DevOps & Deployment**
-Expo EAS, TestFlight, App Store Connect, Google Play Console
-Automated builds, OTA updates, native module configuration
-Vercel and Netlify for scalable frontend deployments
-Experience with CI/CD, environment management, and modern deployment pipelines
+**🚀 DevOps & Deployment:**  
+*Expo EAS, Vercel, Netlify, TestFlight* | CI/CD, automated builds, OTA updates
 
-🧰 **Tools & Workflow**
-***Git, branching strategies, version management
-Postman for API testing & automation
-Figma for design collaboration
-Vite for ultra-fast development environments
-Strong foundation in debugging, profiling, and cross-platform testing***
+**🧰 Tools & Workflow:**  
+*Git, Postman, Figma, Vite* | Version control, API testing, design collaboration
+
 
 ## 📊 GitHub Statistics
 
