@@ -15,11 +15,10 @@ Software Engineer with proven expertise in building high-performance, production
 - Leading full-stack feature implementations from concept to production
 
 ### 🛠️ Technical Expertise
-<p><strong>🚀 Frontend Development:</strong> <em>React.js, Next.js, React Native, Expo</em> | <em>TypeScript, JavaScript</em> | Component-driven architecture, responsive UIs</p>
 
 Core Technologies: React.js | Next.js | React Native | Expo | TypeScript | JavaScript (ES6+) | HTML | CSS
 
-State Management: Redux Toolkit | RTK Query | React Query | Zustand
+State Management: Redux Toolkit | RTK Query | React Query | Zustand | Scalable state layers for complex apps
 
 UI Frameworks: Tailwind CSS | Bootstrap 5 | Ant Design | Shadcn | Material UI | Chakra UI | Radix UI
 
@@ -29,31 +28,9 @@ Backend: Node.js | Express.js | MongoDB | Mongoose ODM | Firebase
 
 API & Integration: REST API | GraphQL | Socket.io | Stripe | Square Payments | JWT Authentication
 
-DevOps & Deployment: EAS | TestFlight | App Store Connect | Google Play Console | Vercel | Netlify
+DevOps & Deployment: Expo EAS | TestFlight | App Store Connect | Google Play Console | Vercel | Netlify
 
-Tools: Git | Postman | Figma | Vite
-
-**⚡ State Management:**  
-*Redux Toolkit, RTK Query, React Query, Zustand* | Scalable state layers for complex apps
-
-**🎨 UI / Styling:**  
-*Tailwind CSS, Bootstrap, Ant Design, Chakra UI, Material UI* | Custom components, theme systems
-
-**🌀 Animation & 3D:**  
-*Framer Motion, GSAP, React Three Fiber (R3F)* | Native mobile animations with **Reanimated**
-
-**🛢️ Backend Development:**  
-*Node.js, Express.js, MongoDB, Firebase* | API architecture, server-side logic
-
-**🔌 API & Integrations:**  
-*REST, GraphQL, Socket.io, Stripe, Square* | Secure, real-time integrations, JWT auth
-
-**🚀 DevOps & Deployment:**  
-*Expo EAS, Vercel, Netlify, TestFlight* | CI/CD, automated builds, OTA updates
-
-**🧰 Tools & Workflow:**  
-*Git, Postman, Figma, Vite* | Version control, API testing, design collaboration
-
+Tools: Git | Postman | Figma | Vite | Version control, API testing, design collaboration
 
 ## 📊 GitHub Statistics
 
