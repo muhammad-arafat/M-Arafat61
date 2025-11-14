@@ -15,9 +15,23 @@ Software Engineer with proven expertise in building high-performance, production
 - Leading full-stack feature implementations from concept to production
 
 ### 🛠️ Technical Expertise
+<p><strong>🚀 Frontend Development:</strong> <em>React.js, Next.js, React Native, Expo</em> | <em>TypeScript, JavaScript</em> | Component-driven architecture, responsive UIs</p>
 
-**🚀 Frontend Development:**  
-*React.js, Next.js, React Native, Expo* | *TypeScript, JavaScript* | Component-driven architecture, responsive UIs
+Core Technologies: React.js | Next.js | React Native | Expo | TypeScript | JavaScript (ES6+) | HTML | CSS
+
+State Management: Redux Toolkit | RTK Query | React Query | Zustand
+
+UI Frameworks: Tailwind CSS | Bootstrap 5 | Ant Design | Shadcn | Material UI | Chakra UI | Radix UI
+
+Animation & 3D: Framer Motion | GSAP | React Three Fiber (R3F) | Reanimated
+
+Backend: Node.js | Express.js | MongoDB | Mongoose ODM | Firebase
+
+API & Integration: REST API | GraphQL | Socket.io | Stripe | Square Payments | JWT Authentication
+
+DevOps & Deployment: EAS | TestFlight | App Store Connect | Google Play Console | Vercel | Netlify
+
+Tools: Git | Postman | Figma | Vite
 
 **⚡ State Management:**  
 *Redux Toolkit, RTK Query, React Query, Zustand* | Scalable state layers for complex apps
