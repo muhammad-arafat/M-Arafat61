@@ -35,7 +35,7 @@ Software Engineer with proven expertise in building high-performance, production
 ## 📊 GitHub Statistics
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammad-arafat&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true" height="165" alt="Muhammad Arafat's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammad-arafat&show_icons=true&theme=dracula&hide_border=false" height="165" alt="Muhammad Arafat's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-arafat&theme=dracula&hide_border=false" height="165" alt="GitHub Streak" />
 </p>
 
