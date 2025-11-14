@@ -14,52 +14,52 @@ Software Engineer with proven expertise in building high-performance, production
 - Performance optimization and SEO-driven development
 - Leading full-stack feature implementations from concept to production
 
-🛠️ Technical Expertise
+### 🛠️ Technical Expertise
 
-🚀 Frontend Development
-React.js, Next.js, React Native, Expo
+🚀 **Frontend Development: **
+***React.js, Next.js, React Native, Expo
 TypeScript, JavaScript (ES6+)
-Responsive UI, component-driven architecture, reusable design patterns
+Responsive UI, component-driven architecture, reusable design patterns***
 
-⚡ State Management
+⚡ **State Management**
 Building predictable, maintainable, and scalable state layers for complex applications.
 Redux Toolkit, RTK Query
 React Query for declarative data fetching and caching
 Zustand for lightweight, minimalistic global state
 
-🎨 UI / Styling Systems
+🎨 **UI / Styling Systems**
 Tailwind CSS, Bootstrap 5
 Ant Design, Shadcn, Material UI, Chakra UI, Radix UI
 Expertise in building design tokens, theme systems, and custom component libraries
 
-🌀 Animation & 3D Experience
+🌀 **Animation & 3D Experience**
 Framer Motion, GSAP
 React Three Fiber (R3F) for 3D scenes and WebGL workflows
 Reanimated for smooth native mobile animations
 
-🛢️ Backend Development
+🛢️ **Backend Development**
 Node.js, Express.js
 MongoDB with Mongoose ODM
 Firebase (Auth, Firestore, Storage, Functions)
 
-🔌 API & Integrations
+🔌 **API & Integrations**
 REST API, GraphQL
 Real-time systems with Socket.io
 Payment integrations (Stripe, Square Payments)
 Security & auth with JWT, refresh-token strategy, rate-limiting practices
 
-🚀 DevOps & Deployment
+🚀 **DevOps & Deployment**
 Expo EAS, TestFlight, App Store Connect, Google Play Console
 Automated builds, OTA updates, native module configuration
 Vercel and Netlify for scalable frontend deployments
 Experience with CI/CD, environment management, and modern deployment pipelines
 
-🧰 Tools & Workflow
-Git, branching strategies, version management
+🧰 **Tools & Workflow**
+***Git, branching strategies, version management
 Postman for API testing & automation
 Figma for design collaboration
 Vite for ultra-fast development environments
-Strong foundation in debugging, profiling, and cross-platform testing
+Strong foundation in debugging, profiling, and cross-platform testing***
 
 ## 📊 GitHub Statistics
 
