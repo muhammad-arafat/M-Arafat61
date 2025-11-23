@@ -16,23 +16,21 @@ Software Engineer with proven expertise in building high-performance, production
 
 ### 🛠️ Technical Expertise
 
-Core Technologies: React.js | Next.js | React Native | Expo | TypeScript | JavaScript (ES6+) | HTML | CSS
+🌟 Core Technologies: React.js | Next.js | React Native | Expo | TypeScript | JavaScript (ES6+) | HTML | CSS
 
-State Management: Redux Toolkit | RTK Query | React Query | Zustand | Scalable state layers for complex apps
+🌟 State Management: Redux Toolkit | RTK Query | React Query | Zustand | Scalable state layers for complex apps
 
-UI Frameworks: Tailwind CSS | Bootstrap 5 | Ant Design | Shadcn | Material UI | Chakra UI | Radix UI
+🌟 UI Frameworks: Tailwind CSS | Bootstrap 5 | Ant Design | Shadcn | Material UI | Chakra UI | Radix UI
 
-Animation & 3D: Framer Motion | GSAP | React Three Fiber (R3F) | Reanimated
+🌟 Animation & 3D: Framer Motion | GSAP | React Three Fiber (R3F) | Reanimated
 
-Backend: Node.js | Express.js | MongoDB | Mongoose ODM | Firebase
+🌟 Backend: Node.js | Express.js | MongoDB | Mongoose ODM | Firebase
 
-API & Integration: REST API | GraphQL | Socket.io | Stripe | Square Payments | JWT Authentication
+🌟 API & Integration: REST API | GraphQL | Socket.io | Stripe | Square Payments | JWT Authentication
 
-DevOps & Deployment: Expo EAS | TestFlight | App Store Connect | Google Play Console | Vercel | Netlify
+🌟 DevOps & Deployment: Expo EAS | TestFlight | App Store Connect | Google Play Console | Vercel | Netlify
 
-Tools: Git | Postman | Figma | Vite | Version control, API testing, design collaboration
-
-## 📊 GitHub Statistics
+🌟 Tools: Git | Postman | Figma | Vite | Version control, API testing, design collaboration
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-arafat&theme=dracula&hide_border=false" height="165" alt="GitHub Streak" />
