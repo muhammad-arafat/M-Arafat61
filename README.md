@@ -32,10 +32,10 @@ Software Engineer with proven expertise in building high-performance, production
 
 🌟 Tools: Git | Postman | Figma | Vite | Version control, API testing, design collaboration
 
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-arafat&theme=dracula&hide_border=false" height="165" alt="GitHub Streak" />
 </p>
 
----
 
 💡 **Open to collaboration on innovative projects and challenging opportunities in frontend and mobile development.**
